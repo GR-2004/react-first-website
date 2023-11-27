@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-first-website/static/css/main.cc639c82.css",
+    "main.js": "/react-first-website/static/js/main.787ae396.js",
+    "static/media/web_dev.jpg": "/react-first-website/static/media/web_dev.e541e93f9c1c6bfe7b18.jpg",
+    "static/media/blockchain.jpg": "/react-first-website/static/media/blockchain.0468e3f4df7cfe200356.jpg",
+    "static/media/data_anal.jpg": "/react-first-website/static/media/data_anal.9bac10b94a0fc57f26b6.jpg",
+    "static/media/digital_mark.jpg": "/react-first-website/static/media/digital_mark.a2ec69874dce45f65f9e.jpg",
+    "static/media/app.png": "/react-first-website/static/media/app.971ed42b2c01b7c23274.png",
+    "static/media/about.png": "/react-first-website/static/media/about.012ddd1325bd518c2ec7.png",
+    "static/media/software_dev.jpg": "/react-first-website/static/media/software_dev.255177cd79cd39b6fdf3.jpg",
+    "static/media/news_logo.png": "/react-first-website/static/media/news_logo.0e97b3bb6d561bc16fc6.png",
+    "index.html": "/react-first-website/index.html",
+    "main.cc639c82.css.map": "/react-first-website/static/css/main.cc639c82.css.map",
+    "main.787ae396.js.map": "/react-first-website/static/js/main.787ae396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc639c82.css",
+    "static/js/main.787ae396.js"
+  ]
+}
